@@ -48,6 +48,18 @@ Four AV variables will be changed. These are:
 - Complexity
 - Competition
 
+### Fractional Factorial Design
+
+Due to the use of 8 binary variables, there would be 2^8 (256) combinations of experiments to undertake to gather data on every combination. To maximise efficiency, a fractional factorial design will be used, with a resolution of IV (4) to gather data but keep the number of individual experiments down. This would therefore be 16 experiments with some allocated to undertake additional experiments should variables be aliased. 
+
+### Levels
+
+Based on the fractional factorial design, 16 levels will be created matching the fractional factorial design chart.
+
 ## Expected Results
 
 It is predicted that identified decision stressors are likely to cause more of a feeling of stress than audio or visual variables in the simulation itself. However, this is just from anecdotal experience.
+
+## Ethical Considerations
+
+When carrying out experiments which are designed to invoke some sort of stressful reaction from participants, it's important to understand that while some may enjoy the experience, it's possible for others to have adverse reactions and have measures in place to mitigate and risks involved. 
